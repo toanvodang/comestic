@@ -1,5 +1,5 @@
 import React from 'react';
-import { StyleSheet, View, Text, Image, FlatList, Button } from 'react-native';
+import { StyleSheet, View, Text, Image, FlatList } from 'react-native';
 import axios from 'axios';
 import ProductListItem from '../components/ProductListItem';
 import Icon from 'react-native-vector-icons/Ionicons';
